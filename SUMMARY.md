@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Home](README.md)
+* [About Page](about-page.md)

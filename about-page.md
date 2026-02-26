@@ -1,8 +1,7 @@
 ---
-description: '# NestForge Docs'
+description: About NestForge
 ---
 
-# Home
+# About Page
 
 This folder explains what each part of NestForge does, in simple language.
-
